@@ -3,7 +3,7 @@
 <p>Bem-vindo ao meu perfil! Aqui você encontrará um entusiasta da tecnologia, mergulhado no mundo das inovações.</p>
 
 <h2>Sobre mim</h2>
-<ul><li>Idade: 19 anos</li><li>Faculdade: Engenharia de Software - Unaerp (4º semestre)</li></ul>
+<ul><li>Idade: 21 anos</li><li>Faculdade: Engenharia de Software - Unaerp (6º semestre)</li></ul>
 
 <h2>
 Explorando o Universo Tecnológico: Inovação e Criatividade</h2>
