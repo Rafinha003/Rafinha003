@@ -1,32 +1,79 @@
-## Oiii eu sou a Rafael Martins Nascimento, estudante na área de programação e tecnologia!
+# 👨‍💻 Rafael Martins Nascimento  
 
-<p>Bem-vindo ao meu perfil! Aqui você encontrará um entusiasta da tecnologia, mergulhado no mundo das inovações.</p>
+🎓 **Engenheiro de Software formado pela Unaerp**  
+📍 **Foco em Data Science | Machine Learning | Engenharia de Dados**
 
-<h2>Sobre mim</h2>
-<ul><li>Idade: 21 anos</li><li>Faculdade: Engenharia de Software - Unaerp (7º semestre)</li></ul>
+---
 
-<h2>
-Explorando o Universo Tecnológico: Inovação e Criatividade</h2>
-<p>Sou apaixonado por novas tecnologias e estou constantemente imerso em uma busca incessante por aprendizado e experiências incríveis. Este repositório é o resultado direto do meu fascínio pela inovação e pela criação de soluções criativas. Aqui, compartilho meu entusiasmo pelo desenvolvimento tecnológico, buscando constantemente maneiras de aprimorar e aperfeiçoar minhas habilidades. Acompanhe minhas jornadas neste vasto universo tecnológico e inspire-se com minhas descobertas. Fique à vontade para explorar meus projetos, contribuir e compartilhar conhecimentos. Juntos, podemos impulsionar a transformação do mundo através da inovação e da criatividade!</p>
+## 🚀 Sobre mim  
+
+Sou **Engenheiro de Software** com foco em **Ciência de Dados e Machine Learning**, apaixonado por transformar dados em **insights estratégicos** e **soluções inteligentes**.  
+Tenho experiência na construção de pipelines de dados, modelagem preditiva e análise estatística, aplicando conceitos de engenharia de software para desenvolver soluções **eficientes, escaláveis e bem estruturadas**.  
+
+Atuo na interseção entre **tecnologia, ciência e negócio**, utilizando a engenharia de dados e o aprendizado de máquina para **gerar valor real** por meio da informação.  
+
+> “Dados são o novo petróleo — mas é a engenharia que os transforma em combustível para a inovação.”
+
+---
+
+## 🧠 Áreas de Especialização  
+
+- 📊 **Análise de Dados e Visualização Avançada** (Pandas, Matplotlib, Seaborn, Power BI)  
+- 🤖 **Machine Learning e Deep Learning** (Scikit-learn, TensorFlow, Keras)  
+- 🧮 **Estatística Aplicada e Modelagem Preditiva**
+- 🔹 **Modelagem Preditiva e Classificação Supervisionada** (regressão, árvores de decisão, random forest, XGBoost)  
+- 🧰 **Engenharia de Software para Projetos de Dados** (Clean Code, versionamento, testes)  
+- ☁️ **Ambientes e Deploys em Cloud** (Google Colab, AWS, GCP)  
+- 🧬 **Data Wrangling e Automação de Processos com Python**
+
+---
+
+## 🧩 Stack Técnica  
 
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angula/angula-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
+  <img align="center" alt="NumPy" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="TensorFlow" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
+  <img align="center" alt="Scikit-learn" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg">
+  <img align="center" alt="Matplotlib" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg">
+  <img align="center" alt="Seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+  <img align="center" alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
 
-<br/>
+---
 
- <div> 
-  <a href = "mailto:rafael.martins.nascimento03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-martins-nascimento-95a24a223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## 📊 Projetos e Publicações  
 
+📘 **Notebook no Google Colab:**  
+🔗 [Previsão doença coração](https://colab.research.google.com/drive/1qOy4sVFBzozHf6rp-mkZjzDodMNBPjPs?usp=sharing)
+
+📄 **Artigo Técnico no Medium:**  
+🧾 [Principais Bibliotecas Python que Todo Cientista de Dados Precisa Conhecer](https://medium.com/@rafael.martins.nascimento03/principais-bibliotecas-python-que-todo-cientista-de-dados-precisa-conhecer-6603341d64ca)
+
+---
+
+## 🧭 Roadmap de Desenvolvimento Contínuo  
+
+Atualmente aprimorando meus conhecimentos em:  
+- 🔹 **Deep Learning (CNNs, RNNs, Transformers)**  
+- 🔹 **Processamento de Linguagem Natural (NLP)**  
+- 🔹 **MLOps e Integração Contínua para Modelos de IA**  
+- 🔹 **Data Pipelines (SQL, Spark, Airflow)**  
+
+---
+
+## 🌐 Contato  
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" width="1100em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafinha003&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="mailto:rafael.martins.nascimento03@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/rafael-martins-nascimento-95a24a223/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
 </div>
+
+---
+
+## ✨ “Transformando dados em conhecimento, e conhecimento em inovação.”
